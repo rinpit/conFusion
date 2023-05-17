@@ -1,0 +1,22 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "This is Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinpit/conFusion.git"
+  },
+  "author": "Pham Thinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinpit/conFusion/issues"
+  },
+  "homepage": "https://github.com/rinpit/conFusion#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
